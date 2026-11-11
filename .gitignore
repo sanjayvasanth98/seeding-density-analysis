@@ -1,0 +1,21 @@
+# MATLAB autosave / temp
+*.asv
+*.m~
+slprj/
+
+# Raw video and generated output (large; share separately)
+*.avi
+*.mp4
+*.mov
+Plot*.png
+PlotVariables.mat
+ParticleDetectionStatistics_*.mat
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+
+# Results data kept out of the repo
+data/
